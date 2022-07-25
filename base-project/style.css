@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&family=Poppins:ital,wght@0,400;0,600;1,200&family=Roboto:wght@300;400&family=Rubik+Mono+One&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Poppins", serif;
+    margin: 0;
+}
